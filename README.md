@@ -26,6 +26,13 @@ Hi! I'm **Aligeti Akshitha**, a 3rd-year Computer Science Engineering student wi
 git clone https://github.com/aligetiakshitha/dev-portfolio-setup.git
 cd dev-portfolio-setup
 
+🖥️ System Setup
+Install Python ≥ 3.11
+
+Set up Ollama (for running local AI models)
+
+Install and explore Ruff (Python linter
+
 **Run the Setup Script**
 bash
 chmod +x setup-dev-env.sh
